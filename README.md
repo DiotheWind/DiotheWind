@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Deo Seth Jabagat</h1>
-<h3 align="center">An IT student from Eastern Visayas State University | Aspiring Software Developer</h3>
+<h3 align="center">Aspiring Software Developer</h3>
 
 - 🌱 I’m currently learning **Intermediate HTML and CSS**
 
-- 📫 How to reach me **diothewind@gmail.com**
+- 📫 How to reach me: **diothewind@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
