@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Deo Seth Jabagat</h1>
 <h3 align="center">Aspiring Software Developer</h3>
 
-- 🌱 I’m currently learning **Intermediate HTML and CSS**
+- 🌱 I’m currently learning **Intermediate HTML & CSS, DSA with C/C++, and OOP with PHP**
 
 - 📫 How to reach me: **diothewind@gmail.com**
 
