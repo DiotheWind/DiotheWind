@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently a sophomore student at Eastern Visayas State University
 
-- 📫 How to reach me: **diothewind@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
