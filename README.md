@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Deo Seth Jabagat</h1>
 <h3 align="center">A sophomore IT student from Eastern Visayas State University</h3>
 
-- 🌱 I’m currently learning **all things Web Development and some other school stuffs**
+- 🌱 I’m currently learning **React** through **Full Stack Open**
 
 - 📫 How to reach me **diothewind@gmail.com**
 
