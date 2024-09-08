@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Deo Seth Jabagat</h1>
 <h3 align="center">A sophomore IT student from Eastern Visayas State University</h3>
 
-- 🌱 I’m currently learning **Express** through **Full Stack Open**
+- 🌱 I’m currently learning the ins and outs of **PHP** and then tackle **Laravel** soon (while suffering) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
