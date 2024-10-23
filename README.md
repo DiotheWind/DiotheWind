@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Deo Seth Jabagat</h1>
 <h3 align="center">A third year IT student from Eastern Visayas State University</h3>
 
-- 🌱 I’m currently learning the ins and outs of **PHP** and then tackle **Laravel** soon (while suffering) 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/thediowind" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thediowind" height="30" width="40" /></a>
