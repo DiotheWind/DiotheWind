@@ -1,7 +1,7 @@
 <h1 align="center">Hello World! I'm Deo Seth Jabagat 👾</h1>
 <h3 align="center">A third year IT student from Eastern Visayas State University</h3>
 
-- 🎒 I’m currently learning **all things Web Development**
+- 🎒 I’m currently learning **Backend Javascript**
 
 - 💤 I love sleeping :)
 
