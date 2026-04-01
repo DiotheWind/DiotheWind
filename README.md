@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🎒 A fourth-year BSIT student from Eastern Visayas State University.<br>🌿 Currently doing his internship at DENR Region 8.<br>💤 I love sleeping in the afternoon</p>
+<p align="left">🎒 A fourth-year BSIT student from Eastern Visayas State University.<br>🌿 Currently doing his internship at DENR Region 8.<br>💤 I love sleeping in the afternoon.</p>
 
 ###
 
