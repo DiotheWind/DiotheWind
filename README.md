@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Enter Deo Seth Jabagat! An aspiring tambay with a degree.</p>
+<p align="left">I'm Deo. That's all you need to know.</p>
 
 ###
 
