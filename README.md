@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Deo. That's all you need to know.</p>
+<p align="left">I'm Deo. Nothing else to say really.</p>
 
 ###
 
