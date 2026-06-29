@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🎒 A fourth-year BSIT student from Eastern Visayas State University.<br>💤 I love sleeping in the afternoon.</p>
+<p align="left">🎒 A graduate IT guy from Eastern Visayas State University.<br>💤 I love sleeping in the afternoon.</p>
 
 ###
 
