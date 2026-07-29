@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Deo. Nothing else to say really.</p>
+<p align="left">I'm Deo. A dreamer.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🎒 A graduate IT guy from Eastern Visayas State University.<br>💤 I love sleeping in the afternoon.</p>
+<p align="left">🎒 A graduate IT guy from Eastern Visayas State University.<br>🏫 I learn new stuff in my free time.</p>
 
 ###
 
