@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🎒 A graduate IT guy from Eastern Visayas State University.<br>🏫 I learn new stuff in my free time.</p>
+<p align="left">🎒 A graduate IT guy from Eastern Visayas State University.<br>🏫 Trying to learn something new every day.</p>
 
 ###
 
